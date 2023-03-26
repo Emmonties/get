@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dict-get"
+version = "0.0.1"
+authors = [
+  { name="Lete114", email="mylete114@gmail.com" },
+]
+description = "Use `.` to get the value of a JSON object. Just like JavaScripthat gets the value of an object"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Lete114/python-dict-get"
+"Bug Tracker" = "https://github.com/Lete114/python-dict-get/issues"

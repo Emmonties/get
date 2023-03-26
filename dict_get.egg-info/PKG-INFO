@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: dict-get
+Version: 0.0.1
+Summary: Use `.` to get the value of a JSON object. Just like JavaScripthat gets the value of an object
+Home-page: https://github.com/Lete114/python-dict-get
+Author: Lete114
+Author-email: Lete114 <mylete114@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/Lete114/python-dict-get
+Project-URL: Bug Tracker, https://github.com/Lete114/python-dict-get/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# dict-get
+
+Use "." to get the value of a JSON object. Just like JavaScripthat gets the value of an object
+
